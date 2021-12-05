@@ -5,7 +5,7 @@
 *** 
 
 ## Hardware:
-1x Arduino Nano
+1x D1 Mini
 5x WS2812B
 1x SCD30
 
